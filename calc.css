@@ -1,0 +1,31 @@
+.enter:hover{
+    background-color:aqua
+}
+.title{
+    margin-top: 4vw;
+   
+   height: 150px;
+   font-size: 4vw;
+}
+table{
+    padding: 20px;
+    margin-left:auto; 
+    margin-right:auto;
+    border-collapse: collapse;
+    width: 30%;
+    height: 30%;
+    table-layout: fixed;
+    text-align: center;
+    background-color: gray;
+}
+input[type="text"]{
+    width:90%;
+}
+input{
+    width:70%;
+    align-items: center;
+    font-size: 1vw;
+}
+th,td{
+    border: 1px solid black;
+}
